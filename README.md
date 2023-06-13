@@ -38,12 +38,12 @@ The app is built using the following technologies:
 5. To view the complete dataset again, select the "All" option from the dropdown menu or clear the search box.
 
 ## Screenshots
-![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/671d754d-7a68-4408-a1c7-4701df1b5f17)
-![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/2c18cd97-02a0-4247-94b5-a352e06307bb)
-![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/e493a327-bf71-496b-a0c5-69b51c9517e0)
-![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/340ea6fb-ff58-4939-936e-127a4e8bef8a)
-![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/8d08b730-7482-43c4-808e-619605e41885)
-![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/ab7e243b-97f7-4f93-96ec-273ddf8d04ca)
+![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/671d754d-7a68-4408-a1c7-4701df1b5f17) <br>
+![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/2c18cd97-02a0-4247-94b5-a352e06307bb) <br>
+![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/e493a327-bf71-496b-a0c5-69b51c9517e0) <br>
+![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/340ea6fb-ff58-4939-936e-127a4e8bef8a) <br>
+![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/8d08b730-7482-43c4-808e-619605e41885) <br>
+![image](https://github.com/chadvan87/F1_Racing_Results/assets/89083229/ab7e243b-97f7-4f93-96ec-273ddf8d04ca)  <br>
 
 
 
