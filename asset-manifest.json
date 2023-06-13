@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/F1_Racing_Results/static/js/main.94c0482a.js",
+    "main.js": "/F1_Racing_Results/static/js/main.3f059013.js",
     "static/js/787.6c3fad03.chunk.js": "/F1_Racing_Results/static/js/787.6c3fad03.chunk.js",
     "index.html": "/F1_Racing_Results/index.html",
-    "main.94c0482a.js.map": "/F1_Racing_Results/static/js/main.94c0482a.js.map",
+    "main.3f059013.js.map": "/F1_Racing_Results/static/js/main.3f059013.js.map",
     "787.6c3fad03.chunk.js.map": "/F1_Racing_Results/static/js/787.6c3fad03.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.94c0482a.js"
+    "static/js/main.3f059013.js"
   ]
 }
